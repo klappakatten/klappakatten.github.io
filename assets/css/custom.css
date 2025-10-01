@@ -1,0 +1,9 @@
+.btn-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.center {
+    margin: auto;
+    grid-template-columns: 2;
+}
