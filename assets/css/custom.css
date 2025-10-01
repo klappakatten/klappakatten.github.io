@@ -1,9 +1,32 @@
 .btn-icon {
-    width: 20px;
-    height: 20px;
+    color: white;
+    padding: 10px;
+    min-width: 90%;
+    min-height: 200px;
+    margin-top: 10px;
 }
 
 .center {
-    margin: auto;
-    grid-template-columns: 2;
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+}
+
+.centertext {
+    text-align: center;
+    border: 2px solid rgb(58, 58, 58);
+    margin: 5px;
+    background: black;
+    color: lightgreen;
+    align-content: flex-end;
+}
+
+img {
+    width: 80%;
+}
+
+@media (max-width: 800px) {
+    .center {
+        grid-template-columns: auto;
+    }
 }

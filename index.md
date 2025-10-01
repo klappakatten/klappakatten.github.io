@@ -3,38 +3,7 @@ layout: default
 title: Martin Nyman
 ---
 
-<style>
-.btn-icon {
-  color: white;
-  padding: 10px;
-  min-width:90%;
-  min-height: 200px;
-  margin-top: 10px;
-}
-.center {
-  display: grid;
-  grid-template-columns: auto auto;
-  padding: 5px;
-}
-.centertext{
-    text-align: center;
-    border: 2px solid grey;
-    margin: 5px;
-    background: black;
-    color: lightgreen;
-}
-
-img{
-width: 80%;
-}
-
-@media (max-width: 800px) {
-  .center {
-    grid-template-columns: auto;
-  }
-}
-
-</style>
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 # Procedural / Technical artist
 
