@@ -5,14 +5,12 @@ title: Martin Nyman
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Procedural / Technical artist
+# Procedural / Tech Artist 
 
 Hi! I'm a procedural artist student at The Game Assembly in Stockholm, Sweden. I do all kinds of 3D work but i mainly focus on creating tools that enable smart and efficient workflows.
 
-Feel free to reach out on
-<a href ="https://www.linkedin.com/in/martin-nyman-097985276/">linkedin</a>
-/ email via martinnyman.mail@gmail.com
-
+<a href ="https://www.linkedin.com/in/martin-nyman-097985276/">Linkedin</a>
+ / <a href="https://github.com/klappakatten">GitHub</a> / <a href="mailto:martinnyman.mail@gmail.com">martinnyman.mail@gmail.com</a>
 <br>
 
 # Projects
