@@ -19,9 +19,19 @@ title: Martin Nyman
 .centertext{
     text-align: center;
     border: 2px solid grey;
-    margin: 10px;
+    margin: 5px;
     background: black;
     color: lightgreen;
+}
+
+img{
+width: 80%;
+}
+
+@media (max-width: 800px) {
+  .center {
+    grid-template-columns: auto;
+  }
 }
 
 </style>
@@ -39,17 +49,17 @@ Feel free to reach out on
 # Projects
 <div class="center">
 <a href="" class="centertext">
-<img src="" class="btn-icon">Houdini Asset Browser</a>
+<img src="/assets/images/houdiniassetbrowser.png" class="btn-icon">Houdini Asset Browser</a>
 <a href="" class="centertext">
-<img src="" class="btn-icon">Level Generator</a>
+<img src="/assets/images/thumbnail_notext.png" class="btn-icon">Level Generator</a>
 
 <a href="" class="centertext">
-<img src="" class="btn-icon">Lady of the Mine</a>
+<img src="/assets/images/P7.png" class="btn-icon">Lady of the Mine</a>
 <a href="" class="centertext">
-<img src="" class="btn-icon">Bellus Battle</a>
+<img src="/assets/images/BellusShowcase.png" class="btn-icon">Bellus Battle</a>
 
 <a href="" class="centertext">
-<img src="" class="btn-icon">Statue Tool</a>
+<img src="/assets/images/statuetool.png" class="btn-icon">Statue Tool</a>
 <a href="" class="centertext">
-<img src="" class="btn-icon">Rock Formation Tool</a>
+<img src="/assets/images/rockgen.png" class="btn-icon">Rock Formation Tool</a>
 </div>
