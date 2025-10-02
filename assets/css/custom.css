@@ -12,6 +12,11 @@
     padding: 5px;
 }
 
+.gridcontainer {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
 .centertext {
     text-align: center;
     border: 2px solid rgb(58, 58, 58);
