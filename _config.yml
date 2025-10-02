@@ -3,3 +3,4 @@ google_analytics:
 theme: jekyll-theme-hacker
 title: Martin Nyman
 description: Portfolio
+permalink: pretty
