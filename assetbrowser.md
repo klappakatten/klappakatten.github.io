@@ -6,7 +6,9 @@ title: Asset Browser
 <link rel="stylesheet" href="/assets/css/custom.css">
 
 # Asset Browser 
-    
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vrBVSN4YCU?si=gUHuk-AjECzPDdkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 In this project, I developed a tool for Houdini that loads local assets into the Houdini UI and gives users the ability to browse and place assets from a local directory without having to manually create all the nodes and apply materials. I use Quixel Megascans quite often, so 
 I also added support for them.
 this was a particular focus since they recently made the move to Fab. The UI was built using PySide2 and seamlessly integrate into Houdini as a custom panel.
